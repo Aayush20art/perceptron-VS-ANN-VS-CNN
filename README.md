@@ -108,7 +108,7 @@ Input (784)  →  Flatten  →  Dense(128, ReLU)  →  Dense(64, ReLU)  →  Den
 
 ### 3. 🟢 CNN (Convolutional Neural Network)
 
-The most powerful of the three — uses convolutional layers to extract spatial features, pooling to reduce dimensionality, and dropout to prevent overfitting.
+the most powerful of the three — uses convolutional layers to extract spatial features, pooling to reduce dimensionality, and dropout to prevent overfitting.
 
 ```
 Input (28×28×1)
