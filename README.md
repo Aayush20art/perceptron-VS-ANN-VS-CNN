@@ -1,4 +1,4 @@
-# 🧠 Perceptron vs ANN vs CNN — MNIST Digit Classification
+# 🧠 Perceptron vs ANN vs CNN — MNIST Digit Clasification
 
 A comparative deep learning study implementing three neural network architectures — **Perceptron**, **Artificial Neural Network (ANN)**, and **Convolutional Neural Network (CNN)** — on the classic **MNIST handwritten digit dataset**. Built using TensorFlow/Keras, this notebook benchmarks model complexity vs accuracy across all three paradigms.
 
